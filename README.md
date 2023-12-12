@@ -11,7 +11,10 @@ I am an experienced engineering leader, product creator, and full stack engineer
 * [The SF AI Meetup: Monthly AI demo days at the Great Star Theater](https://www.sfaimeetup.com/)
 
 ### Find me online
-[Check out my blog: rogerpincombe.com](https://rogerpincombe.com/)
-[Read more about me](https://rogerpincombe.com/about)
-[Download my resume](https://rogerpincombe.com/resume)
-[Connect with me on LinkedIn](https://www.linkedin.com/in/rogerpincombe)
+💻 [Check out my blog: rogerpincombe.com](https://rogerpincombe.com/)
+
+😎 [Read more about me](https://rogerpincombe.com/about)
+
+🦾 [Download my resume](https://rogerpincombe.com/resume)
+
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/rogerpincombe)
